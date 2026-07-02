@@ -8,8 +8,7 @@
 Python • Playwright • Pytest • API • Desktop • AI Testing
 
 I build reliable test automation for **Web, Desktop, API and AI-powered applications**.
-
-I'm passionate about improving software quality through automation, CI/CD and modern testing practices.
+I believe great automation should be reliable, readable and easy to maintain.
 
 📍 Open to remote opportunities
 
@@ -28,46 +27,37 @@ I'm passionate about improving software quality through automation, CI/CD and mo
 ## About Me
 
 ✔ 5+ years in Software Testing
+
 ✔ Full-stack QA (Manual + Automation)
+
 ✔ Building Python automation frameworks
+
 ✔ Experience with Web, Desktop and API testing
+
 ✔ Feature ownership and release quality
+
 ✔ AI/LLM testing and tool-calling validation
 
 ---
-
 ## Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Python • SQL
 
 ### Test Automation
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-472FC8?logo=appium&logoColor=white)
+Pytest • Playwright • Appium
 
 ### API
+REST • Postman • Swagger
 
-![REST API](https://img.shields.io/badge/REST_API-009688)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+### CI/CD & DevOps
+Git • GitHub • GitHub Actions • Jenkins • Docker
 
-### DevOps
+### Databases & OS
+PostgreSQL • Linux
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-### Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Allure](https://img.shields.io/badge/Allure-Report-orange)
+### Reporting
+Allure
 
 ---
 
@@ -87,7 +77,7 @@ End-to-end QA automation framework built with Python, Playwright and Pytest, fea
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
