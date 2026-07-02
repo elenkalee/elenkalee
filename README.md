@@ -1,26 +1,15 @@
-<table>
-<tr>
-<td width="65%">
+<img src="assets/banner.png" width="100%">
 
 # Elena Lipukhina
 
 ### Full-stack QA Engineer
-Python • Playwright • Pytest • API • Desktop • AI Testing
+Python • Playwright • Pytest • API • Desktop • AI/LLM Testing
 
 I build reliable test automation for **Web, Desktop, API and AI-powered applications**.
 I believe great automation should be reliable, readable and easy to maintain.
 
-📍 Open to remote opportunities
+📍 Open to remote opportunities across Europe
 
-</td>
-
-<td width="35%">
-
-<img src="https://github.com/elenkalee.png" width="220"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -92,9 +81,13 @@ End-to-end QA automation framework built with Python, Playwright and Pytest, fea
 ## Current Focus
 
 • AI-assisted Testing
+
 • Event-driven Testing (Kafka)
+
 • gRPC
+
 • Test Architecture
+
 ---
 
 ## Let's connect
